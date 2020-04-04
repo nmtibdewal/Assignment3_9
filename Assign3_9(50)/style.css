@@ -1,0 +1,41 @@
+.inner
+{
+    font-family: monospace;
+    font-size: xx-large;
+    text-align: right;
+    padding: 10px;
+}
+.outer
+{
+    text-align: center;
+    padding-top: 250px;
+}
+.image
+{
+    padding-top: 25px;
+}
+.button
+{
+    font-family: monospace;
+    font-size: xx-large;
+    background-color: orange;
+    border-radius: 20px;
+}
+select
+{
+    width: 200px;
+    font-family: monospace;
+    font-size: 100%;
+}
+table
+{
+    border: 2px solid black;
+}
+th,td
+{
+    
+    font-size: 100%;
+    font-family: monospace;
+    border: 2px solid black;
+    padding-top: 10px;
+}
